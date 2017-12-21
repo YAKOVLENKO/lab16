@@ -1,0 +1,3 @@
+C:\Учеба\lab16>"C:\Program Files\Python36\python.exe" scannep.py example.bin
+1
+
